@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  color: #333333;
+  line-height: 1.4;
+  /* Optional but awesome */
+  margin: 0; 
+}
+
+.col-12 {
+  width: 100%;
+  padding: 1% 2%;
+  background: #CFCFC4;
+}
+
+.col-8 {
+  width: 66.666666667%;
+  background: #B19CD9;
+  padding: 1% 2%;
+}
+
+.col-4 {
+  padding: 1% 2%;
+  width: 33.333333333%;
+  background: #AEC6CF;
+}
+
+/* Solution */
+.col-12,.col-8,.col-4 {
+  float: left;
+  box-sizing: border-box;
+}
