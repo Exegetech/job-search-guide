@@ -20,7 +20,7 @@ Hired.com vets you with a coding challenge. The problems are easier than the one
   * [StackOverflow][stackoverflow]
   * [Toptal][toptal]
   * [White Truffle][white-truffle]
-
+  * [whoishiring.io][whoishiring]
 
 ##Communities
 These online communities post job boards on the first of each month. Set a reminder in your calendar to look out for these.
@@ -71,6 +71,7 @@ check 'Show Active' on the left).
 [toptal]: http://www.toptal.com/developer
 [stackoverflow]: http://careers.stackoverflow.com/
 [white-truffle]: https://www.whitetruffle.com/
+[whoishiring]: https://whoishiring.io/
 
 [hackers-&-founders]: http://www.meetup.com/Hackers-and-Founders/
 [hackernews]: https://news.ycombinator.com/item?id=6653437
