@@ -36,6 +36,7 @@ Good resources to hit your daily quota.
   * Craigslist [SF][craigslist-sf] and [NY][craigslist-ny]
   * [Dice][dice]
   * [Monster][monster]
+  * [Okjob][okjob]
   * [The Muse][the-muse]
   * [SimplyHired][simplyhired]
   * [VentureLoop][ventureloop]
@@ -80,6 +81,7 @@ check 'Show Active' on the left).
 [craigslist-ny]: http://newyork.craigslist.org/sof/
 [dice]: http://www.dice.com/
 [monster]: http://www.monster.com/
+[okjob]: http://okjob.io/
 [the-muse]: http://www.themuse.com/jobs
 [simplyhired]: http://www.simplyhired.com/
 [ventureloop]: http://ventureloop.com/ventureloop/home.php
